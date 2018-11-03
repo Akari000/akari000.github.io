@@ -1,0 +1,71 @@
+flash {
+
+    background-color: #668ad8;
+    color: #FFFFFF;
+    height: 50px;
+    width: 200px;
+    padding: 10px 100px;
+}
+
+header {
+    background-color: #A9E2F3;
+/*    height: 100px;*/
+    color: #FFFFFF;
+    padding: 10px 20px
+    display:flex;
+    justify-content: space-between;
+}
+
+header a:link { color: #FFFFFF; }
+header a:visited { color: #CCCCCC; }
+.header-logo{
+/*    float:left;*/
+    font-size: 10px;
+}
+.header-index{
+    padding-top: 20px;
+/*    float: right;*/
+}
+main {
+    background-color: #FFFFFF;
+    height: 400px;
+}
+
+footer {
+    background-color: #A9E2F3;
+    height: 60px;
+}
+tab {
+    background-color: #A9E2F3;
+}
+.square_btn{
+    display: inline-block;
+    padding: 0.4em 2em;
+    font-size: 20px;
+    text-decoration: none;
+    background: #668ad8;
+    color: #FFF;
+    border-bottom: solid 4px #627295;
+    border-radius: 3px;
+}
+.square_btn:active {/*ボタンを押したとき*/
+    -ms-transform: translateY(4px);
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);/*下に動く*/
+    border-bottom: none;/*線を消す*/
+}
+
+.item {
+    margin: 10px;
+    padding: 10px;
+    background-color: #dcdcdc;
+    display: inline;
+}
+
+.wordlist {
+    height: 150px;
+}
+
+.skyblue {
+    background-color: #A9E2F3;
+}

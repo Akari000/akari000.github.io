@@ -1,0 +1,2 @@
+USER_NAME=xxxxx
+DATABASE_URL=postgresql://postgres:example@db:5432/sample
