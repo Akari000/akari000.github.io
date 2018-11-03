@@ -1,0 +1,8 @@
+<section id="nav">
+    <% menu={"HOME": "/","老師紹介":"/our-teacher","武術紹介": "/about"} %>
+    <div class="w3-row nav-bar w3-round-xlarge">
+        <% for (var i in menu){ %>
+            <a href="<%=menu[i]%>" class="w3-bar-item bar-item"><%= i %></a>
+        <% } %>
+    </div>
+</section>

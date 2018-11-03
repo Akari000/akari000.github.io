@@ -1,13 +1,16 @@
-
 var express=require("express");
 var expressSession=require('express-session');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var app=express();
+
 // var pg=require('pg');     //DB
 var ejs=require('ejs');
 const http = require('http');
 const fs = require('fs');
+// yaml = require('yaml');
+// var yamlData = fs.readFileSync('_config.yml','utf8');
+// console.log(yamlData);
 // var knex = require('knex')({
 // 	client: 'pg',
 // 	connection: process.env.DATABASE_URL
@@ -40,6 +43,7 @@ app.get('/our-teachers',function (req, res) {
 app.get('/about',function (req, res) {
 	res.render('top/about', { title: 'About', URL: "/"});
 });
+
 // the-studio
 app.get('/the-studio',function (req, res) {
 	res.render('top/the-studio', { title: 'the-studio', URL: "/"});

@@ -1,16 +1,12 @@
 <html>
     
-    <head>
-        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-        <link rel="stylesheet" href="/static/public/css/site.css">
-        <title>Digger</title>
-
-    </head>
+    <%- include("../_partial/head.ejs") %>
     <body>
-        <header>
-            <left class="header-logo">
-                <h1><%= title %></h1>
-            </left>
-        </header>
+        <%- include("../_partial/header.ejs") %> 
+        <%- include("../_partial/nav.ejs") %> 
+        <left class="header-logo">
+            <h1><%= title %></h1>
+        </left>
+        
     </body>
 </html>
