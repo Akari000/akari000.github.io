@@ -31,6 +31,52 @@ app.use(expressSession({
 // 	next();
 // });
 
+// our-teachers
+app.get('/our-teachers',function (req, res) {
+	res.render('top/our-teachers', { title: 'our-teachers', URL: "/"});
+});
+
+// about
+app.get('/about',function (req, res) {
+	res.render('top/about', { title: 'About', URL: "/"});
+});
+// the-studio
+app.get('/the-studio',function (req, res) {
+	res.render('top/the-studio', { title: 'the-studio', URL: "/"});
+});
+
+// join
+app.get('/join',function (req, res) {
+	res.render('top/join', { title: 'join', URL: "/"});
+});
+
+// event
+app.get('/event',function (req, res) {
+	res.render('top/event', { title: 'event', URL: "/"});
+});
+
+//faq
+app.get('/faq',function (req, res) {
+	res.render('top/faq', { title: 'faq', URL: "/"});
+});
+
+
+
+// home
+app.get('/',function (req, res) {
+	res.render('top/index');
+});
+
+//var server=app.listen(3000,'127.0.0.1',()=>{
+var server=app.listen(process.env.PORT||3000,()=>{
+	var host=server.address().address;
+	var port=server.address().port;
+	console.log('app litens at https://%s:%s',host,port);
+	console.log(server.address())
+});
+
+//options
+
 // // ensure login
 // const ensureLogin = (options) => {
 // 	if (typeof options == 'string') {
@@ -130,22 +176,3 @@ app.use(expressSession({
 // 	res.redirect('/user/setting');
 // });
 
-
-
-// about
-app.get('/about',function (req, res) {
-	res.render('top/about', { title: 'About', URL: "/"});
-});
-
-// login
-app.get('/',function (req, res) {
-	res.render('top/login');
-});
-
-//var server=app.listen(3000,'127.0.0.1',()=>{
-var server=app.listen(process.env.PORT||3000,()=>{
-	var host=server.address().address;
-	var port=server.address().port;
-	console.log('app litens at https://%s:%s',host,port);
-	console.log(server.address())
-});
