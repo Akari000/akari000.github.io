@@ -6,6 +6,27 @@
   </head>
 
   <body>
-    {{ content }}
+    <main>
+      <header>
+        <!-- <div class="logoWrapper">
+          <a href="/">
+            <img class="logo" src="/assets/logo.svg" alt="" />
+          </a>
+        </div> -->
+        <nav>
+          <div class="links">
+            <a class="linkItem" href="/">posts</a>
+            <a class="linkItem" href="/about">about</a>
+            <a class="linkItem" href="/posts">posts (ja)</a>
+            <a class="linkItem" href="/blog">blog</a>
+            <a class="linkItem" href="/reading">reading</a>
+            <a class="linkItem" href="https://github.com/akari000">github</a>
+          </div>
+        </nav>
+      </header>
+      <section class="content">
+        {{ content }}
+      </section>
+    </main>
   </body>
 </html>

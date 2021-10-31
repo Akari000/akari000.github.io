@@ -1,9 +1,6 @@
 ---
 layout: default
-title: トップページ
+title: akari000.io
 ---
 
-# トップページです
-
-- hoge
-- huga
+# akari000.io
