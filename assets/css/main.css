@@ -1,4 +1,4 @@
 ---
 ---
 
-@import "main";
+@import url("/_sass/main.scss" | relative_url );
