@@ -1,10 +1,33 @@
-markdown: redcarpet
-redcarpet:
-  extensions:
-    [
-      "no_intra_emphasis",
-      "fenced_code_blocks",
-      "autolink",
-      "strikethrough",
-      "superscript",
-    ]
+url: "https://akari000.github.io/about" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "akari.io" # the name of your site, e.g. ACME Corp.
+name: akari.io
+
+collections:
+  posts:
+    output: true
+    permalink: /posts/:title
+  blog:
+    output: true
+    permalink: /blog/:year-:month-:day
+  reading:
+    output: true
+    permalink: /reading/:title
+
+defaults:
+    - scope:
+        type: "about"
+      values:
+          layout: "about"
+    - scope:
+        type: "posts"
+      values:
+          layout: "post"
+    - scope:
+        type: "blog"
+      values:
+          layout: "post"
+    - scope:
+        type: "reading"
+      values:
+          layout: "book"
