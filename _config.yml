@@ -8,3 +8,5 @@ redcarpet:
       "strikethrough",
       "superscript",
     ]
+
+theme: jekyll-theme-tactile
