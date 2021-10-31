@@ -8,5 +8,3 @@ redcarpet:
       "strikethrough",
       "superscript",
     ]
-
-theme: jekyll-theme-hacker
