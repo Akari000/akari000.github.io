@@ -186,3 +186,10 @@ typings/
 
 # End of https://www.gitignore.io/api/node
 .DS_Store
+.bundle/
+vendor
+Gemfile.lock
+*.gem
+.bundle
+.sass-cache
+_site
