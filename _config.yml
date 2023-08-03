@@ -6,16 +6,16 @@ url: "https://http://akari000.github.io"
 
 author:
   name: akari
-  email: 
+  email: haga.akari.ha0@is.naist.jp
   github: akari000
   twitter: _akari000
 
-paginate: 5
+paginate: 3
 paginate_path: page:num
 
 sass:
   style: expanded
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed

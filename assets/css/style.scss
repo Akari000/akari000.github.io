@@ -160,3 +160,56 @@ p{
     }
   }
 }
+
+.archive{
+
+  @include pad();
+  border-bottom: $border;
+
+  &__title{
+
+    margin: 0;
+
+    a{
+      color: $font-color;
+      text-decoration: none;
+    }
+  }
+
+  &__date{
+    @extend %meta;
+  }
+
+  &__excerpt{
+    font-size: 14px;
+    color: #666;
+    margin-top: 1em;
+  }
+}
+
+.pagination{
+  @include pad();
+  display: flex;
+  flex-wrap: wrap;
+
+  &__item{
+
+    margin-right: 4px;
+    text-decoration: none;
+    display: block;
+    padding: 7px 16px;
+    // border: $border;
+  }
+
+  .current{
+    background: $color-main;
+    // border-color: $color-main;
+    color: white;
+  }
+}
+
+@media screen and (max-width:480px) {
+  .profile-img{
+    display: none;
+  }
+}

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="contents page">
+<div class="contents page">
   <div class="container">
 
     <div class="page__header">
@@ -21,15 +21,19 @@ layout: default
     <!-- 前後のページへのリンクを表示したい -->
     <div class="pager">
 
-      <p class="pager__item--next">
-        <a href="">&lt; 次のページ</a>
-      </p>
+      {% if page.next %}
+        <p class="pager__item--next">
+          <a href="{{ page.next.url | relative_url }}">&lt; {{ page.next.title }}</a>
+        </p>
+      {% endif %}
 
-      <p class="pager__item--prev">
-        <a href="">前のページ &gt;</a>
-      </p>
+      {% if page.previous %}
+        <p class="pager__item--prev">
+          <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }} &gt;</a>
+        </p>
+      {% endif %}
 
     </div><!--pager-->
     
   </div><!--container-->
-</article><!--page-->
+</div><!--page-->

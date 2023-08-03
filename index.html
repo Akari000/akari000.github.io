@@ -2,8 +2,30 @@
 layout: default
 ---
 
+
 <div class="contents front-page">
   <div class="container">
-    トップページのコンテンツです｡記事一覧が入ります｡
+    <div style="display: flex; width: 100%">
+      <div class="profile-img">
+        <img
+          src="assets/imgs/profile.jpeg"
+          alt="mejiro"
+          style="width: 20vw; height: 20vw; border-radius: 100%;"/>
+      </div>
+      <div style="padding-left: 5vw; width: 70vw">
+        <h1>Akari Haga</h1>
+        <p>Master’s student at <a href="https://www.naist.jp/en/" style="text-decoration:none;">NARA Institute of Science and Technology (NAIST)</a> under the supervision of Prof. Taro Watanabe.</p>
+        <br/>
+        <div class="social-link" style="font-size: 2em; display: inline-block;">
+          {% if site.author.github %}
+            <i class="fa fa-github" style="width: 1em"></i><a href="https://github.com/{{ site.author.github }}" style="font-size: 0.5em; text-decoration:none;"> @akari000</a>
+          {% endif %}
+          <br/>
+          {% if site.author.twitter %}
+            <i class="fa fa-twitter" style="width: 1em"></i><a href="https://twitter.com/{{ site.author.twitter }}" style="font-size: 0.5em; text-decoration:none;"> @_akari000</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
   </div><!--container-->
-</div><!--contents-->
+</div><!--main-->
