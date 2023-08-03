@@ -50,7 +50,7 @@ Master's student at [NARA Institute of Science and Technology (NAIST)](https://w
   - National Institute of Informatics
   - Supervisor: [Saku Sugawara](https://penzant.net/)
   - Survey papers on Linguistics related to First language acquisition.
-- 2022/08-2022/9: Research Intern
+- 2022/08-2022/09: Research Intern
   - NTT Communication Science Laboratories
   - Researched a Image captioning model.
 - 2020/08-2022/03: Software Engineer
