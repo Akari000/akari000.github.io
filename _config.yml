@@ -18,3 +18,4 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-sitemap
