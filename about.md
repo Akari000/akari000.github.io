@@ -33,6 +33,12 @@ Master's student at [NARA Institute of Science and Technology (NAIST)](https://w
   - Akari Haga, Yosuke Tomida, Akihiro Yamashita, Katsuki Matsubayashi 
   - International Conference on Technologies and Applications of Artificial Intelligence (TAAI) , 1-6 (2019).
 
+#### Awards / Honors
+- 2024/04-2027/03: Japan Society for Promotion of Science (JSPS) Research Fellowship for Young Scientists (DC1)
+  - 200,000 yen / month + 1,000,000 yen / year
+- 2020/06: 情報処理学会 コンピュータと教育研究会 155回研究発表会 学生奨励賞
+  - 社内研修の評価及び人材育成の効率化を目的とした社内SNSの分析</li>
+
 #### Education
 - 2022/05-: Master of Engineering: Natural Language Processing
   - NARA Institute of Science and Technology (奈良先端大)
