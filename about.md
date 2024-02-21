@@ -60,7 +60,7 @@ Master's student at [NARA Institute of Science and Technology (NAIST)](https://w
   - NTT Communication Science Laboratories
   - Researched a Image captioning model.
 - 2020/08-2022/03: Software Engineer
-  - Palette Inc.
+  - [Palette inc.](https://corp-palette.com/)
   - Founding member.
   - Developed a web application.
 - 2019/07-2020/07: Software Engineer
