@@ -36,6 +36,11 @@ p{
   padding: 0 25px;
 }
 
+.front-page-container{
+  display: flex;
+  width: 100%;
+}
+
 .copyright{
   margin-bottom: 0;
 }
@@ -208,8 +213,39 @@ p{
   }
 }
 
+.profile-img-container{
+  display: flex;
+  align-items: center;
+}
+
+.profile-img{
+  width: 20vw;
+  height: 20vw;
+  border-radius: 100%;
+}
+
+.profile{
+  padding-left: 5vw;
+  width: 70vw;
+}
+
 @media screen and (max-width:480px) {
+  .front-page-container{
+    display: block;
+  }
+
+  .profile-img-container{
+    display: block;
+    text-align: center;
+  }
+
   .profile-img{
-    display: none;
+    width: 40vw;
+    height: 40vw;
+  }
+  
+  .profile{
+    padding-left: 0;
+    width: 90vw;
   }
 }

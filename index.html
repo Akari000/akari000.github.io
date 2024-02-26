@@ -5,25 +5,39 @@ layout: default
 
 <div class="contents front-page">
   <div class="container">
-    <div style="display: flex; width: 100%">
-      <div class="profile-img">
+    <div class="front-page-container">
+      <div class="profile-img-container">
         <img
           src="assets/imgs/profile.jpeg"
           alt="mejiro"
-          style="width: 20vw; height: 20vw; border-radius: 100%;"/>
+          class="profile-img"/>
       </div>
-      <div style="padding-left: 5vw; width: 70vw">
-        <h1>Akari Haga</h1>
-        <p>Master’s student at <a href="https://www.naist.jp/en/" style="text-decoration:none;">NARA Institute of Science and Technology (NAIST)</a> under the supervision of Prof. Taro Watanabe.</p>
+      <div class="profile">
+        <h2>Akari Haga (芳賀あかり)</h2>
+        <p>2nd year Master’s student at <a href="https://www.naist.jp/en/" style="text-decoration:none;">NARA Institute of Science and Technology (NAIST)</a> under the supervision of Prof. Taro Watanabe.</p>
         <br/>
         <div class="social-link" style="font-size: 2em; display: inline-block;">
-          {% if site.author.github %}
-            <i class="fa fa-github" style="width: 1em"></i><a href="https://github.com/{{ site.author.github }}" style="font-size: 0.5em; text-decoration:none;"> @akari000</a>
-          {% endif %}
-          <br/>
-          {% if site.author.twitter %}
-            <i class="fa fa-twitter" style="width: 1em"></i><a href="https://twitter.com/{{ site.author.twitter }}" style="font-size: 0.5em; text-decoration:none;"> @_akari000</a>
-          {% endif %}
+          <div style="display: flex; align-items: center;"> 
+            {% if site.author.github %}
+              <i class="fa fa-github" style="width: 1em"></i><a href="https://github.com/{{ site.author.github }}" style="font-size: 0.5em; text-decoration:none;"> @akari000</a>
+            {% endif %}
+            <br/>
+          </div>
+          <div style="display: flex; align-items: center;">
+            {% if site.author.twitter %}
+              <i class="fa fa-twitter" style="width: 1em"></i><a href="https://twitter.com/{{ site.author.twitter }}" style="font-size: 0.5em; text-decoration:none;"> @_akari000</a>
+            {% endif %}
+            <br/>
+          </div>
+          <div style="display: flex; align-items: center;">
+            <span>
+            <img
+              src="assets/imgs/Google_Scholar_logo.svg"
+              alt="google scholar"
+              style="width: 0.9em"/></span>
+            <a href="https://scholar.google.com/citations?user=Mkd23TkAAAAJ&hl=ja&oi=sra" style="font-size: 0.5em; text-decoration:none; padding-left:0.2em"> Google Scholar</a>
+            <br/>  
+          </div>
         </div>
       </div>
     </div>
