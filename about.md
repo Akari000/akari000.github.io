@@ -30,6 +30,11 @@ permalink: /about/
   - 芳賀あかり, 富田陽介, 山下晃弘, 松林勝志
   - 情報処理学会論文誌教育とコンピュータ（TCE） 7, pp.12-23 (2021). 
 
+#### International Conference (Non-refereed)
+- [BabyLM Challenge: Curriculum learning based on sentence complexity approximating language acquisition](https://aclanthology.org/2023.conll-babylm.25/)
+  - Miyu Oba, Akari Haga, Akiyo Fukatsu, Yohei Oseki
+  - BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, (2023/12).
+
 #### Domestic Conference
 - 小規模言語モデルによる子供の過剰一般化のモデリング
   - 芳賀あかり, 菅原朔, 深津聡世, 大羽未悠, 大内啓樹, 渡辺太郎, 大関洋平
