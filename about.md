@@ -39,10 +39,10 @@ permalink: /about/
   - BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, (2023/12).
 
 #### Domestic Conference
-- 小規模言語モデルによる子供の過剰一般化のモデリング
+- [小規模言語モデルによる子供の過剰一般化のモデリング](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E9-1.pdf)
   - 芳賀あかり, 菅原朔, 深津聡世, 大羽未悠, 大内啓樹, 渡辺太郎, 大関洋平
   - 言語処理学会第30回年次大会 (to appear), pp.1-4 (2024/3).
-- 言語モデルの文法知識評価における間接肯定証拠の分析
+- [言語モデルの文法知識評価における間接肯定証拠の分析](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E10-5.pdf)
   - 大羽未悠, 大関洋平, 深津聡世, 芳賀あかり, 大内啓樹, 渡辺太郎, 菅原朔
   - 言語処理学会第30回年次大会 (to appear), pp.1-4 (2024/3).
 - 言語獲得過程を模倣した文の複雑さに基づくカリキュラム学習
@@ -72,7 +72,7 @@ permalink: /about/
 
 ## Education
 - 2022/05-: Master of Engineering: Natural Language Processing
-  - NARA Institute of Science and Technology (奈良先端大)
+  - NARA Institute of Science and Technology (NAIST)
   - Supervisor: Taro Watanabe, Hidetaka Kamigaito, Hiroki Ouchi
 - 2020/03-2022/04: Bachelor of Arts: Dialogue and Discourse Processing
   - The University of Electro-Communications (電通大)
