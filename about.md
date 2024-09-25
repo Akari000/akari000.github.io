@@ -11,7 +11,7 @@ permalink: /about/
 
 ## Research Interests
 - Computational (psycho)linguistics, Natural language processing
-- First language acquisition, Morphology
+- First language acquisition
 - <span style="color: gray;">Image captioning (2022-2023)</span>
 - <span style="color: gray;">Dialogue system (2020-2022)</span>
 - <span style="color: gray;">Text Analysis Using Natural Language Processing (2019-2020)</span>
@@ -21,6 +21,9 @@ permalink: /about/
 
 ## Publications
 #### International Conference (Refereed)
+- [Modeling Overregularization in Children with Small Language Models](https://aclanthology.org/2024.findings-acl.865/)
+  - Akari Haga, Saku Sugawara, Akiyo Fukatsu, Miyu Oba, Hiroki Ouchi, Taro Watanabe, Yohei Oseki
+  - In Findings of the Association for Computational Linguistics (ACL), pp.14532–14550 (2024).
 - [Analysis of internal social media for in-house job training aimed at improving the efficiency of human-resource development](https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=Mkd23TkAAAAJ&citation_for_view=Mkd23TkAAAAJ:d1gkVwhDpl0C)
   - Akari Haga, Yosuke Tomida, Akihiro Yamashita, Katsuki Matsubayashi 
   - International Conference on Technologies and Applications of Artificial Intelligence (TAAI), pp.1-6 (2019).
@@ -58,6 +61,7 @@ permalink: /about/
 ---
 
 ## Awards / Honors
+- 2024/10-2027/03: Japan Science and Technology Agency (JST) ACT-X
 - 2024/04-2027/03: Japan Society for Promotion of Science (JSPS) Research Fellowship for Young Scientists (DC1)
   - 200,000 yen / month + 700,000 yen / year
 - 2020/06: 情報処理学会 コンピュータと教育研究会 155回研究発表会 学生奨励賞
