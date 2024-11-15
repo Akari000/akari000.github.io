@@ -21,12 +21,15 @@ permalink: /about/
 
 ## Publications
 #### International Conference (Refereed)
+- [Can Language Models Induce Grammatical Knowledge from Indirect Evidence?](https://aclanthology.org/2024.emnlp-main.1146/)
+  - Miyu Oba, Yohei Oseki, Akiyo Fukatsu, Akari Haga, Hiroki Ouchi, Taro Watanabe, Saku Sugawara
+  - In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
 - [Modeling Overregularization in Children with Small Language Models](https://aclanthology.org/2024.findings-acl.865/)
   - Akari Haga, Saku Sugawara, Akiyo Fukatsu, Miyu Oba, Hiroki Ouchi, Taro Watanabe, Yohei Oseki
-  - In Findings of the Association for Computational Linguistics (ACL), pp.14532–14550 (2024).
+  - In Findings of the Association for Computational Linguistics (ACL 2024), pp.14532–14550 (2024).
 - [Analysis of internal social media for in-house job training aimed at improving the efficiency of human-resource development](https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=Mkd23TkAAAAJ&citation_for_view=Mkd23TkAAAAJ:d1gkVwhDpl0C)
   - Akari Haga, Yosuke Tomida, Akihiro Yamashita, Katsuki Matsubayashi 
-  - International Conference on Technologies and Applications of Artificial Intelligence (TAAI), pp.1-6 (2019).
+  - International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2019), pp.1-6 (2019).
 
 #### Journal (Refereed)
 - [社内研修の評価及び人材育成の効率化を目的とした社内SNSの分析](https://scholar.google.com/citations?view_op=view_citation&hl=ja&user=Mkd23TkAAAAJ&citation_for_view=Mkd23TkAAAAJ:u5HHmVD_uO8C)
@@ -34,9 +37,12 @@ permalink: /about/
   - 情報処理学会論文誌教育とコンピュータ（TCE） 7, pp.12-23 (2021). 
 
 #### International Conference (Non-refereed)
+- [BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency](https://arxiv.org/abs/2411.09587)
+  - Akari Haga, Akiyo Fukatsu, Miyu Oba, Arianna Bisazza, Yohei Oseki
+  - BabyLM Challenge at the 28th Conference on Computational Natural Language Learning (CoNLL 2024), (2024/11).
 - [BabyLM Challenge: Curriculum learning based on sentence complexity approximating language acquisition](https://aclanthology.org/2023.conll-babylm.25/)
   - Miyu Oba, Akari Haga, Akiyo Fukatsu, Yohei Oseki
-  - BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, (2023/12).
+  - BabyLM Challenge at the 27th Conference on Computational Natural Language Learning (CoNLL 2023), (2023/12).
 
 #### Domestic Conference
 - [小規模言語モデルによる子供の過剰一般化のモデリング](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E9-1.pdf)
@@ -62,6 +68,7 @@ permalink: /about/
 
 ## Awards / Honors
 - 2024/10-2027/03: Japan Science and Technology Agency (JST) ACT-X
+  - 4500,000 yen / 2.5 years
 - 2024/04-2027/03: Japan Society for Promotion of Science (JSPS) Research Fellowship for Young Scientists (DC1)
   - 200,000 yen / month + 700,000 yen / year
 - 2020/06: 情報処理学会 コンピュータと教育研究会 155回研究発表会 学生奨励賞
