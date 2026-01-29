@@ -40,6 +40,7 @@ permalink: /about/
 - [BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency](https://arxiv.org/abs/2411.09587)
   - Akari Haga, Akiyo Fukatsu, Miyu Oba, Arianna Bisazza, Yohei Oseki
   - BabyLM Challenge at the 28th Conference on Computational Natural Language Learning (CoNLL 2024), (2024/11).
+  - **Outstanding Paper Award**
 - [BabyLM Challenge: Curriculum learning based on sentence complexity approximating language acquisition](https://aclanthology.org/2023.conll-babylm.25/)
   - Miyu Oba, Akari Haga, Akiyo Fukatsu, Yohei Oseki
   - BabyLM Challenge at the 27th Conference on Computational Natural Language Learning (CoNLL 2023), (2023/12).
@@ -77,6 +78,8 @@ permalink: /about/
   - 200,000 yen / month + 700,000 yen / year
 - 2025/03: 言語処理学会 第31回年次大会 若手奨励賞
   - 言語モデルの事前学習におけるバリエーションセットの効果
+- 2024/11: Outstanding Paper Award at BabyLM Challenge 2024 
+  - BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency
 - 2020/06: 情報処理学会 コンピュータと教育研究会 155回研究発表会 学生奨励賞
   - 社内研修の評価及び人材育成の効率化を目的とした社内SNSの分析
 <br/><br/>
