@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Akari Haga (芳賀あかり)
-1st year doctoral student at [NARA Institute of Science and Technology (NAIST)](https://www.naist.jp/en/) under the supervision of Prof. Taro Watanabe.
+2nd year doctoral student at [NARA Institute of Science and Technology (NAIST)](https://www.naist.jp/en/) under the supervision of Prof. Taro Watanabe.
 
 [GitHub](https://github.com/Akari000) / [Google Scholar](https://scholar.google.com/citations?user=Mkd23TkAAAAJ&hl=ja&oi=sra)
 
@@ -45,12 +45,16 @@ permalink: /about/
   - BabyLM Challenge at the 27th Conference on Computational Natural Language Learning (CoNLL 2023), (2023/12).
 
 #### Domestic Conference
+- [言語モデルの事前学習におけるバリエーションセットの効果](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/B4-5.pdf)
+  - 芳賀あかり, 深津聡世, 大羽未悠, Arianna Bisazza
+  - 言語処理学会第31回年次大会, pp.1-4 (2025/3).
+  - **Young Researcher Award (若手奨励賞受賞)**
 - [小規模言語モデルによる子供の過剰一般化のモデリング](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E9-1.pdf)
   - 芳賀あかり, 菅原朔, 深津聡世, 大羽未悠, 大内啓樹, 渡辺太郎, 大関洋平
-  - 言語処理学会第30回年次大会 (to appear), pp.1-4 (2024/3).
+  - 言語処理学会第30回年次大会, pp.1-4 (2024/3).
 - [言語モデルの文法知識評価における間接肯定証拠の分析](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E10-5.pdf)
   - 大羽未悠, 大関洋平, 深津聡世, 芳賀あかり, 大内啓樹, 渡辺太郎, 菅原朔
-  - 言語処理学会第30回年次大会 (to appear), pp.1-4 (2024/3).
+  - 言語処理学会第30回年次大会, pp.1-4 (2024/3).
 - 言語獲得過程を模倣した文の複雑さに基づくカリキュラム学習
   - 大羽未悠, 芳賀あかり, 深津聡世, 大関洋平
   - 第18回NLP若手の会 シンポジウム (YANS), (2023/08).
@@ -71,6 +75,8 @@ permalink: /about/
   - 4500,000 yen / 2.5 years
 - 2024/04-2027/03: Japan Society for Promotion of Science (JSPS) Research Fellowship for Young Scientists (DC1)
   - 200,000 yen / month + 700,000 yen / year
+- 2025/03: 言語処理学会 第31回年次大会 若手奨励賞
+  - 言語モデルの事前学習におけるバリエーションセットの効果
 - 2020/06: 情報処理学会 コンピュータと教育研究会 155回研究発表会 学生奨励賞
   - 社内研修の評価及び人材育成の効率化を目的とした社内SNSの分析
 <br/><br/>
