@@ -7,7 +7,7 @@ permalink: /about/
 ## Akari Haga (芳賀あかり)
 2nd year doctoral student at [NARA Institute of Science and Technology (NAIST)](https://www.naist.jp/en/) under the supervision of Prof. Taro Watanabe.
 
-[GitHub](https://github.com/Akari000) / [Google Scholar](https://scholar.google.com/citations?user=Mkd23TkAAAAJ&hl=ja&oi=sra)
+[GitHub](https://github.com/Akari000) / [Google Scholar](https://scholar.google.co.jp/citations?user=Lx7SsKkAAAAJ)
 
 ## Research Interests
 - Computational (psycho)linguistics, Natural language processing
